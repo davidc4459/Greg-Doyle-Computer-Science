@@ -1,0 +1,4 @@
+--- quick sort took  0.010166184931166168 seconds ---
+--- Language: Python---
+--- Length: 36 lines of code---
+--- No of Elements: 1000 ---

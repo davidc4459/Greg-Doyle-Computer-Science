@@ -1,0 +1,4 @@
+--- insertion sort took  0.2397029530215119 seconds ---
+--- Language: python---
+--- Length: 17 lines of code---
+--- No of elements: 1000---

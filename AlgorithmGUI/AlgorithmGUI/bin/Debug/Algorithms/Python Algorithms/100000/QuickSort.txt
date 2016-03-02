@@ -1,0 +1,3 @@
+--- quick sort took  3.736604849894546 seconds ---
+--- Length: 36 lines of code---
+--- No of Elements: 100000 ---

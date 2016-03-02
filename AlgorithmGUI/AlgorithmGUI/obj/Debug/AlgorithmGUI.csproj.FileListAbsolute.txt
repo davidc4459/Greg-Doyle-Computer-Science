@@ -1,0 +1,30 @@
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe.config
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.pdb
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csprojResolveAssemblyReference.cache
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Form1.resources
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Properties.Resources.resources
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csproj.GenerateResource.Cache
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.exe
+C:\Users\unum\Desktop\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.pdb
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe.config
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.exe
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.pdb
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe.config
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.exe
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.pdb
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.pdb
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csprojResolveAssemblyReference.cache
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Form1.resources
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Properties.Resources.resources
+C:\Users\unum\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csproj.GenerateResource.Cache
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.pdb
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csprojResolveAssemblyReference.cache
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Form1.resources
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.Properties.Resources.resources
+C:\Users\david\Dropbox\Algorithm project\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.csproj.GenerateResource.Cache
+C:\AlgorithmGUI\AlgorithmGUI\bin\Debug\AlgorithmGUI.exe.config
+C:\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.exe
+C:\AlgorithmGUI\AlgorithmGUI\obj\Debug\AlgorithmGUI.pdb

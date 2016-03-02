@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1.02637e-005milliseconds
+20 lines of code
+=======
+1.02637e-005milliseconds
+20 lines of code
+>>>>>>> origin/master

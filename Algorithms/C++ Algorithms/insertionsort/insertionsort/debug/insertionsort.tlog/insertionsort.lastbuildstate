@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|C:\Users\david\Dropbox\Algorithm project\Algorithms\C++ Algorithms\insertionsort\|
+=======
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|C:\Users\david\Dropbox\Algorithm project\Algorithms\C++ Algorithms\insertionsort\|
+>>>>>>> origin/master

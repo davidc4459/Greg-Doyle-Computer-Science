@@ -1,0 +1,1 @@
+--- insertion sort took  0.004061405313415373 seconds ---
